@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084948902418",
+    "firebase_url": "https://mychatchit-c3af4.firebaseio.com",
+    "project_id": "mychatchit-c3af4",
+    "storage_bucket": "mychatchit-c3af4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084948902418:android:c9956bd259ad37eadb1ecb",
+        "android_client_info": {
+          "package_name": "com.dohoailam.mychatchit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084948902418-ugu3qh6j5jdtinjh29rsqpa1bd7630bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dohoailam.mychatchit",
+            "certificate_hash": "bb079ef5a4f98ccb0cc2b4151ba74c76fd019baa"
+          }
+        },
+        {
+          "client_id": "1084948902418-kvl2gm71bq1o6dd17gbiqfep290mnvhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-l57A7QuhWxRQhsbkr1NIPLtopql4Tnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084948902418-kvl2gm71bq1o6dd17gbiqfep290mnvhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
